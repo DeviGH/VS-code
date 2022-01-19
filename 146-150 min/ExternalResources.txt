@@ -1,0 +1,15 @@
+for begginers: (easier to use)
+w3schools
+
+https://www.w3schools.com/
+
+↑ יש פה יותר הדרכות ↑
+
+for advanced: (documentation is very extensive) 
+extensive = נרחב
+MDN web docs (in google MDN is enough)
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+Tutorials:
+https://developer.mozilla.org/en-US/docs/Web/Tutorials#html_tutorials

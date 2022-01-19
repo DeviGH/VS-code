@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form + label + input + buttom elements</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>germinoma</th>  
+          <th>teratoma</th>
+        </tr>
+        <tr>
+            <td>germ cell cancer</td>
+            <td>variety of cells</td>
+        </tr>
+    </table>
+    
+    <br>
+    <br>
+    <br>
+
+    <form action="">
+        <h3>account</h3>
+        <label for="name">first name </label>
+        <input type="text" name="name" id="name" >
+        <!-- <button type="submit">submit</button> -->
+        <br>
+        <br>
+        <label for="name">last name </label>
+        <input type="text" name="name" id="name" >
+        <!-- <button type="submit">submit</button> -->
+        <br>
+        <br>
+        <label for="password">password </label>
+        <input type="text" name="name" id="password" placeholder="password" >
+        <!-- <button type="submit">submit</button> -->
+        <br>
+        <h3>disease</h3>
+        <input type="text" name="disease">
+        <!-- <input type="submit"> -->
+        <br>
+        <br>
+        <label for="em">email</label>
+        <input type="email" name="email" id="em" placeholder="email">
+        <br>
+        <br>
+        <p>Description</p>
+        <textarea name="description" id="" cols="30" rows="10" placeholder="Max = 10 rows"></textarea>
+        <br>
+        <br>
+        <p>Select your disease</p>
+        <input type="radio" name="disease" id="" value="germ">germinoma
+        <br>
+        <br>
+        <input type="radio" name="disease" id="" value="tera">teratoma
+        <br>
+        <br>
+        <input type="radio" name="disease" id="" value="acha">achlazia
+        <input type="radio" name="disease" id="" value="MI">MI
+        <!--לא זהה אז זה לא יהיה בחירה אלא הוא יוכל לסמן כמה דברים name אם ה-->
+        <!--         <input type="radio" name="not disease" id="" value="MI">MI -->
+        <br>
+        <br>
+        <input type="submit" value="submit please" >
+        <input type="submit">
+    </form>
+</body>
+</html>

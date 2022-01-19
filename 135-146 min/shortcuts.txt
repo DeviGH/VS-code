@@ -1,0 +1,15 @@
+ALT →  Option
+Ctrl  → Command
+
+
+Ctrl + z  → Undo
+hold  ALT +  click(with the mouse) → Multiple cursors (סימונים)
+Ctrl + L  → Select hole line
+ALT + Left / Right  keys  → navigate
+Crtl + Left / Right keys  → start / end of the line 
+Crtl + Up / Down keys  → start / end of document
+Shift + ALT + down  → Copy line
+ALT + Up / down  → Move line up / down
+Ctrl + /  → Toggle line comment
+Ctrl + K + Ctrl + S  → Shortcuts
+Ctrl + Enter  → start a new line
